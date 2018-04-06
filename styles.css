@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.node circle {
+  fill: #fff;
+  stroke: skyblue;
+  stroke-width: 2px;
+}
+
+.node text {
+  font-family: 'Raleway', sans-serif;
+  fill: #2F3F53;
+}
+
+.link {
+  fill: none;
+  stroke: lightgray;
+  stroke-width: 2px;
+}
